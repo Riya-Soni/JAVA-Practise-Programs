@@ -1,3 +1,6 @@
+/*
+An Armstrong number is a number which is equal to the sum of digits raise to the power total number of digits in the number. Some Armstrong numbers are: 0, 1, 2, 3, 153, 370, 407, 1634, 8208, etc.
+*/
 import java.util.Scanner;
 import java.lang.Math;;
 
@@ -31,4 +34,4 @@ public class Armstrong_n_Digit {
 	    sc.close();//standard practice for eclipse to close scanner object
 	
 	}
-}//Check1634 n 153
+}//Check1634 n 153 thi are armstrong no.
