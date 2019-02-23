@@ -1,7 +1,6 @@
 
-import java.util.Scanner;
-
-/* For 8 rows
+/* Output will be
+For 8 rows
 1
 23
 456
@@ -10,8 +9,9 @@ import java.util.Scanner;
 161718192021
 22232425262728
 2930313233343536
-
 */
+import java.util.Scanner;
+
 public class FloydsPyramid {
     public static void main(String[] args){
         int n=1,row;
