@@ -1,7 +1,5 @@
-
-import java.util.Scanner;
-
-/*Enter number of rows: 8
+/* Output will be
+Enter number of rows: 8
 * * * * * * * * 
 * * * * * * * 
 * * * * * * 
@@ -11,6 +9,8 @@ import java.util.Scanner;
 * * 
 * 
 */
+
+import java.util.Scanner;
 public class InvertedHalfPyramid {
     public static void main(String[] args){
         Scanner sc = new Scanner(System.in);
