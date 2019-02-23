@@ -1,7 +1,4 @@
-
-import java.util.Scanner;
-
-/*
+/* Output will be
 Enter number of rows: 
 8
 1
@@ -12,6 +9,10 @@ Enter number of rows:
 123456
 1234567
 12345678 */
+
+
+import java.util.Scanner;
+
 public class HalfPyramidCount {
     public static void main(String[] args){
         Scanner sc = new Scanner(System.in);
