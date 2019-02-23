@@ -1,4 +1,5 @@
-/*Enter number of rows: 8
+/* Output Will be
+Enter number of rows: 8
 1 
 2 2 
 3 3 3 
