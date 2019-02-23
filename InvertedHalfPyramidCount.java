@@ -1,5 +1,5 @@
-import java.util.Scanner;
-/*Enter number of rows: 8
+/* Output will be
+Enter number of rows: 8
 12345678
 1234567
 123456
@@ -7,7 +7,10 @@ import java.util.Scanner;
 1234
 123
 12
-1 */
+1 
+*/
+import java.util.Scanner;
+
 public class InvertedHalfPyramidCount {
     public static void main(String[] args){
         Scanner sc = new Scanner(System.in);
