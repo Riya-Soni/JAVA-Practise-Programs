@@ -1,3 +1,15 @@
+/*  Output will be
+Enter number of rows: 
+8
+H H H H H H H H 
+G G G G G G G 
+F F F F F F 
+E E E E E 
+D D D D 
+C C C 
+B B 
+A 
+*/
 
 import java.util.Scanner;
 
@@ -23,16 +35,3 @@ public class InvertedHalfPyramidAlphabet {
         }
     }
 }
-/*
-Enter number of rows: 
-8
-H H H H H H H H 
-G G G G G G G 
-F F F F F F 
-E E E E E 
-D D D D 
-C C C 
-B B 
-A 
-
-*/
