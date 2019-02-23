@@ -1,3 +1,15 @@
+/*Output will be like this
+Enter number of rows: 8
+              1 
+            2 2 2 
+          3 3 3 3 3 
+        4 4 4 4 4 4 4 
+      5 5 5 5 5 5 5 5 5 
+    6 6 6 6 6 6 6 6 6 6 6 
+  7 7 7 7 7 7 7 7 7 7 7 7 7 
+8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 
+*/
+
 import java.util.Scanner;
 public class FullPyaramidNumber {
     public static void main(String[] args){
@@ -13,13 +25,3 @@ public class FullPyaramidNumber {
         }
     }
 }
-/*Enter number of rows: 8
-              1 
-            2 2 2 
-          3 3 3 3 3 
-        4 4 4 4 4 4 4 
-      5 5 5 5 5 5 5 5 5 
-    6 6 6 6 6 6 6 6 6 6 6 
-  7 7 7 7 7 7 7 7 7 7 7 7 7 
-8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 
-*/
